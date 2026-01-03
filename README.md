@@ -13,10 +13,10 @@
 - 行尾      CRLF
 - 文件名    IDM激活汉化版.cmd
 - **如果下载的cmd文件无法运行，请使用Visual Studio Code 或 Notepad++ 修改文件编码和行尾**
--修改编码：
--编码 (Encoding)菜单> 选择转为 UTF-8 (Convert to UTF-8)或其他所需编码。
--修改行尾：
--编辑 (Edit)> 档案格式转换 (EOL Conversion)> 选择转为 Unix (LF)转换成{LF} (Unix/Linux)，或选择转为 Windows (CRLF)转换成{CRLF} (Windows)。
+- 修改编码：
+- 编码 (Encoding)菜单> 选择转为 UTF-8 (Convert to UTF-8)或其他所需编码。
+- 修改行尾：
+- 编辑 (Edit)> 档案格式转换 (EOL Conversion)> 选择转为 Unix (LF)转换成{LF} (Unix/Linux)，或选择转为 Windows (CRLF)转换成{CRLF} (Windows)。
   
 
 ## 详细信息
