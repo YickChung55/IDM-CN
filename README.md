@@ -38,9 +38,6 @@
 ### 激活失败怎么办？
 如果激活失败或IDM显示虚假序列号提示屏幕，建议使用“冻结试用”选项。
 
-### 遇到其他问题怎么办？
-请查看 [帮助页面](https://github.com/lstprjct/IDM-Activation-Script/wiki/IAS-Help#troubleshoot) 以获取更多帮助。
-
 ## 屏幕截图
 ![IDM 激活脚本](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/1.png)
 ![激活选项](https://raw.githubusercontent.com/jarocheng0123/IDM-CN/refs/heads/main/png/2.png)
