@@ -12,7 +12,7 @@
 - 编码      GB2312
 - 行尾      CRLF
 - 文件名    IDM激活汉化版.cmd
-- **如果下载的cmd文件无法运行，请使用Visual Studio Code 或 Notepad++ 修改文件编码和行尾**
+- **如果下载的cmd文件无法运行，请使用Visual Studio Code 或  [Notepad++](https://notepad-plus-plus.org/)  修改文件编码和行尾**
 - 修改编码：
 - 编码 (Encoding)菜单> 选择转为 GB2312。
 - 修改行尾：
